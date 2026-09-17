@@ -5,3 +5,7 @@ I'm creating this server as a hub for project ideas and project development. My 
 2. You get experience with additional features, e.g. pull requests.
 3. I get to try delegating control to you.
 4. We get to explore more cool technologies than otherwise.
+
+* https://github.com/scriptz0340/Link
+
+* https://github.com/Wolfster427/AnyBase
